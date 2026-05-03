@@ -1,8 +1,9 @@
 streamlit
 pandas
 numpy
-matplotlib
-seaborn
-plotly
 openpyxl
-scipy
+plotly
+streamlit-option-menu
+streamlit-aggrid
+matplotlib
+missingno
