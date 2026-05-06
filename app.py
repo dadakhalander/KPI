@@ -1,4 +1,4 @@
-```python
+
 # ============================================================
 # STREAMLIT KPI DASHBOARD FOR CONFECTIONARY SALES DATA
 # FULL CLEAN PIPELINE | EDA + KPI + INTERACTIVE VISUALIZATION
