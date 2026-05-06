@@ -16,11 +16,7 @@ import os
 os.system("pip install plotly openpyxl pandas numpy matplotlib missingno seaborn")
 
 # Then continue normal imports:
-import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
+
 # ============================================================
 # IMPORT LIBRARIES
 # ============================================================
