@@ -9,7 +9,18 @@
 # pip install -r requirements.txt
 # streamlit run app.py
 # ============================================================
+# TEMPORARY EMERGENCY FIX:
+# Add these lines at the VERY TOP of app.py before all imports
 
+import os
+os.system("pip install plotly openpyxl pandas numpy matplotlib missingno seaborn")
+
+# Then continue normal imports:
+import streamlit as st
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
 # ============================================================
 # IMPORT LIBRARIES
 # ============================================================
